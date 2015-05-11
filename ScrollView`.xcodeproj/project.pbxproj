@@ -40,6 +40,12 @@
 		52E69AB81AED25A30028F241 /* ScrollView`Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ScrollView`Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52E69ABD1AED25A30028F241 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		52E69ABE1AED25A30028F241 /* ScrollView_Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollView_Tests.m; sourceTree = "<group>"; };
+		52E69AC81AED25D70028F241 /* photo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = photo1.png; path = ../../../Downloads/ScrollViewsResources/photo1.png; sourceTree = "<group>"; };
+		52E69AC91AED25D70028F241 /* photo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = photo2.png; path = ../../../Downloads/ScrollViewsResources/photo2.png; sourceTree = "<group>"; };
+		52E69ACA1AED25D70028F241 /* photo3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = photo3.png; path = ../../../Downloads/ScrollViewsResources/photo3.png; sourceTree = "<group>"; };
+		52E69ACB1AED25D70028F241 /* photo4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = photo4.png; path = ../../../Downloads/ScrollViewsResources/photo4.png; sourceTree = "<group>"; };
+		52E69ACC1AED25D70028F241 /* photo5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = photo5.png; path = ../../../Downloads/ScrollViewsResources/photo5.png; sourceTree = "<group>"; };
+		52E69ACD1AED25D70028F241 /* slow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = slow.png; path = ../../../Downloads/ScrollViewsResources/slow.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +102,12 @@
 		52E69AA21AED25A30028F241 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				52E69AC81AED25D70028F241 /* photo1.png */,
+				52E69AC91AED25D70028F241 /* photo2.png */,
+				52E69ACA1AED25D70028F241 /* photo3.png */,
+				52E69ACB1AED25D70028F241 /* photo4.png */,
+				52E69ACC1AED25D70028F241 /* photo5.png */,
+				52E69ACD1AED25D70028F241 /* slow.png */,
 				52E69AA31AED25A30028F241 /* Info.plist */,
 				52E69AA41AED25A30028F241 /* main.m */,
 			);
@@ -418,6 +430,7 @@
 				52E69AC41AED25A30028F241 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		52E69AC51AED25A30028F241 /* Build configuration list for PBXNativeTarget "ScrollView`Tests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +439,7 @@
 				52E69AC71AED25A30028F241 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
